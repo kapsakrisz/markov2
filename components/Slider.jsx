@@ -11,7 +11,7 @@ const Slider =  ({slides})  => {
 
   return (
     <div id='gallery' >
-      <h1 className='text-2xl font-bold text-center p-4'>Gallery</h1>
+      <h1 className='text-2xl font-bold text-center p-4'>Gallery some of my recent work</h1>
       <div className=''>
 
       {SliderData.map((slide, index) => {
