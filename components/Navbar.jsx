@@ -45,9 +45,7 @@ useEffect(()=>{
             <li className='p-4'>
                 <Link href='/#gallery'>Gallery</Link>
             </li>
-            <li className='p-4'>
-                <Link href='/Work'>Work</Link>
-            </li>
+            
             <li className='p-4'>
                 <Link href='/Contact'>Contact</Link>
             </li>
