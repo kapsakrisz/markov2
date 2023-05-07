@@ -10,7 +10,7 @@ const Contact =()=> {
 
     const { register, handleSubmit, watch, formState: { errors } } = useForm();
   const onSubmit = data =>{
-    window.location.href = `mailto:devkapsakrisz@gmail.com?subject=${data.subject}&body=Hi my name is ${data.name}. ${data.message} (${data.email})`;
+    window.location.href = `mailto:kj_painting_decorating@yahoo.com?subject=${data.subject}&body=Hi my name is ${data.name}. ${data.message} (${data.email})`;
   }
 
 
