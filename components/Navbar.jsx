@@ -33,7 +33,7 @@ useEffect(()=>{
         <Link href='/'>
         
 
-            <h1 style={{color:`${textColor}`}} className='font-bold text-4xl'>M Moore Photography  </h1>
+            <h1 style={{color:`${textColor}`}} className='font-bold text-4xl'>MMoore   </h1>
         
         </Link>
 
