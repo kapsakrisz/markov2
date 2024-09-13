@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <div>
-      <Hero heading='M moore productions' message='M Moore Professional photography Bla bla bla bla'/>
+      <Hero heading='M moore productions' message='M Moore  photography '/>
       <Slider slides={SliderData} />
     </div>
   )
