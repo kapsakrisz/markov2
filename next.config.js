@@ -6,7 +6,7 @@ const nextConfig = {
 module.exports = {
   images:{
     domains:[
-      'images.unsplash.com',
+      'https://www.instagram.com/p/C-KjSKCoOu9/?hl=en',
     ]
   }
 }

@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <div>
-      <Hero heading='KJ painting' message='K.J. Professional Painting & Decorating Based in Belfast - Skilled, reliable painting & decorating services. - Precise work and reasonable prices. - Over 15 years experience. - Friendly service. - Free paint collection and transport. - Free viewing for a quote. - All work guaranteed. '/>
+      <Hero heading='KJ painting' message='M Moore Professional photography Bla bla bla bla'/>
       <Slider slides={SliderData} />
     </div>
   )
